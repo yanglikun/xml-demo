@@ -1,0 +1,11 @@
+<!ELEMENT list (itbook*,anyEle*,emptyEle)>
+
+        <!ELEMENT itbook (bookName,author,price,desc)*>
+        <!ELEMENT bookName (#PCDATA)>
+        <!ELEMENT author (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT desc (#PCDATA)>
+        <!ELEMENT anyEle ANY>
+        <!ELEMENT a ANY>
+        <!ELEMENT emptyEle EMPTY>
+<!ENTITY china "中华人民共和国">

@@ -1,0 +1,19 @@
+<!DOCTYPE list SYSTEM "outerdtd.dtd">
+<list>
+    <itbook>
+        <bookName></bookName>
+        <author></author>
+        <price></price>
+        <desc></desc>
+    </itbook>
+    <anyEle>
+        <a></a>
+    </anyEle>
+    <anyEle>
+        fasdfa
+    </anyEle>
+    <anyEle>
+        &china;
+    </anyEle>
+    <emptyEle/>
+</list>
